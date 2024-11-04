@@ -5,7 +5,7 @@
 
 Este proyecto es una aplicación conectada a WordPress que sincroniza imágenes y texto. Utiliza Docker para facilitar la gestión del entorno.
 
-Sitio web: https://restaurante-tolos-897t28uwi-nataliagamezbareas-projects.vercel.app/Vilacuisines.html
+Sitio web: https://nataliagamezbarea.github.io/restaurante-tolos-api/Vilacuisines.html
 
 ## Descripción
 
